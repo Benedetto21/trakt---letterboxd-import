@@ -15,9 +15,9 @@ import datetime
 
 import urllib
 
-CLIEN_ID= '' #Fill in your client id
-CLIEN_SECRECT = '' #Fill in your client secred
-CODE = '' #Fill in your code, which you get after authorization with your trakt account
+CLIEN_ID= '1445419ee6231f0354c60e9d21bb01f0f6f254d99cb8ae778dae161ef1921193'
+CLIEN_SECRECT = 'dd2b556bf99703b997cd547ef7f46fffd0549512ca2736a4e69c1573f9521324'
+CODE = '4b308152'
 
 
 # Optional: Use an API for obtaining imdb id
